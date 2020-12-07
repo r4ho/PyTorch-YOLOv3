@@ -1,0 +1,4 @@
+classes= 4
+train=data/waymo/train.txt
+valid=data/waymo/valid.txt
+names=data/waymo/classes.names
